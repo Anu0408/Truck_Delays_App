@@ -1,4 +1,4 @@
-2. Truck Delay - Machine Learning Modeling
+# Truck Delay - Machine Learning Modeling
 In Part 2, we delve deeper into the machine-learning pipeline. Focusing on data retrieval from the feature store, train-validation-test split, one-hot encoding, scaling numerical features, and leveraging MLFlow for model experimentation, we will build our pipeline for model building with logistic regression, random forest, and XGBoost models. Further, we explore hyperparameter tuning , discuss grid and random search, and, ultimately, the deployment of a Streamlit application on AWS.
 
 1. Retrieve Truckdealy feature dataset from Hopsworks
