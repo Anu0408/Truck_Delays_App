@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/7064b771b6e943d2864c3796dda784ba/artifacts
+end_time: 1729272684845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7064b771b6e943d2864c3796dda784ba
+run_name: treasured-ape-200
+run_uuid: 7064b771b6e943d2864c3796dda784ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272334632
+status: 3
+tags: []
+user_id: anucv

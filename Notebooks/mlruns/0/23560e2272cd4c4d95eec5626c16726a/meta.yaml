@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/Notebooks/mlruns/0/23560e2272cd4c4d95eec5626c16726a/artifacts
+end_time: 1729182910344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23560e2272cd4c4d95eec5626c16726a
+run_name: capable-auk-759
+run_uuid: 23560e2272cd4c4d95eec5626c16726a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729182903691
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/a9741da0be9b477ebd3aa2ab0fc73dd5/artifacts
+end_time: 1729274659110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9741da0be9b477ebd3aa2ab0fc73dd5
+run_name: defiant-lynx-73
+run_uuid: a9741da0be9b477ebd3aa2ab0fc73dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729274656001
+status: 3
+tags: []
+user_id: anucv

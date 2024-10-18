@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/4e66d98c8f304ad3b50a45089e2d932c/artifacts
+end_time: 1729271435172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e66d98c8f304ad3b50a45089e2d932c
+run_name: flawless-mule-453
+run_uuid: 4e66d98c8f304ad3b50a45089e2d932c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729271389601
+status: 3
+tags: []
+user_id: anucv

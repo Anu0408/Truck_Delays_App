@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/2136b2260abb4c9799f3b09e3e0877fa/artifacts
+end_time: 1729275989028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2136b2260abb4c9799f3b09e3e0877fa
+run_name: hilarious-rook-392
+run_uuid: 2136b2260abb4c9799f3b09e3e0877fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729275985826
+status: 3
+tags: []
+user_id: anucv

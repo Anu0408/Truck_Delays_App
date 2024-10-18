@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/fd54ac89635946ba9412417860e3aad2/artifacts
+end_time: 1729278073546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd54ac89635946ba9412417860e3aad2
+run_name: serious-fish-850
+run_uuid: fd54ac89635946ba9412417860e3aad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729278070844
+status: 3
+tags: []
+user_id: anucv

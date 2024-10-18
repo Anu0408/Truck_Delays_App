@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/Notebooks/mlruns/0/179093193ff7433abf0d4c22adb544e6/artifacts
+end_time: 1729153447829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 179093193ff7433abf0d4c22adb544e6
+run_name: redolent-penguin-284
+run_uuid: 179093193ff7433abf0d4c22adb544e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153443684
+status: 3
+tags: []
+user_id: anucv

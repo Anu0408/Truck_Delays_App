@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/Notebooks/mlruns/0/f3b94f40cf6345e28615cc808613eb85/artifacts
+end_time: 1729153427285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3b94f40cf6345e28615cc808613eb85
+run_name: traveling-horse-225
+run_uuid: f3b94f40cf6345e28615cc808613eb85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153423610
+status: 3
+tags: []
+user_id: anucv

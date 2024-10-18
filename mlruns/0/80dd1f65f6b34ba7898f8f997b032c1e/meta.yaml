@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/80dd1f65f6b34ba7898f8f997b032c1e/artifacts
+end_time: 1729275250848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80dd1f65f6b34ba7898f8f997b032c1e
+run_name: beautiful-mink-442
+run_uuid: 80dd1f65f6b34ba7898f8f997b032c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729275214287
+status: 3
+tags: []
+user_id: anucv

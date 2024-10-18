@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/5d43bdfd7fa8476fb7e2e32ed3f38b64/artifacts
+end_time: 1729224760298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d43bdfd7fa8476fb7e2e32ed3f38b64
+run_name: Logistic Regression with GridSearchCV
+run_uuid: 5d43bdfd7fa8476fb7e2e32ed3f38b64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729224741068
+status: 4
+tags: []
+user_id: anucv

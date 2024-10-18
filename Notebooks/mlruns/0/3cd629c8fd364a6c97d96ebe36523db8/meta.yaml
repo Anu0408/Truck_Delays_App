@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/Notebooks/mlruns/0/3cd629c8fd364a6c97d96ebe36523db8/artifacts
+end_time: 1729152628632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cd629c8fd364a6c97d96ebe36523db8
+run_name: rare-bass-30
+run_uuid: 3cd629c8fd364a6c97d96ebe36523db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152624491
+status: 3
+tags: []
+user_id: anucv

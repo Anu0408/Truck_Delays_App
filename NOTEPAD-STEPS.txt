@@ -1,0 +1,91 @@
+project on truck delay classification is a comprehensive end-to-end machine learning pipeline with a focus on logistics. Here's an analysis of the project based on the provided details:
+
+Project Overview
+Objective:
+
+Improve Operational Efficiency: Allocate resources more effectively.
+Enhance Customer Satisfaction: Provide more reliable delivery schedules.
+Optimize Route Planning: Reduce delays caused by traffic or adverse weather conditions.
+Reduce Costs: Minimize penalties or compensation for delayed shipments.
+Approach
+
+Start with Data Cleaning: Handle any missing values, remove duplicates if present, and correct inconsistencies.
+
+
+Data Retrieval from Hopsworks:
+
+Connect to Hopsworks using Python.
+
+Retrieve relevant data directly from the feature store.
+Data Processing:
+
+Train-Validation-Test Split: Split the dataset into training, validation, and test sets.
+One-Hot Encoding: Convert categorical variables into numerical format.
+Scaling Numerical Features: Normalize numerical features to improve model performance.
+Model Building:
+
+Logistic Regression
+Random Forest
+XGBoost
+Hyperparameter Tuning:
+
+Explore hyperparameter tuning with grid search and random search to optimize model performance.
+Streamlit Application Development:
+
+Develop a Streamlit application to interact with the model and visualize results.
+Deployment:
+
+Deploy the Streamlit application on an AWS EC2 instance.
+Folder Structure
+Data:
+
+Contains CSV files with data related to city weather, drivers, routes, traffic, trucks, and schedules.
+Backup SQL files for MySQL and PostgreSQL.
+A PDF for data description.
+Deployment:
+
+Contains the Streamlit application files (app.py), configuration (app_config.yaml), requirements (requirements.txt), and data encoder/ scaler files.
+Notebooks:
+
+Jupyter notebooks for the different stages of the machine learning pipeline.
+References:
+
+Contains a readme file and a solution methodology document.
+Execution Instructions
+Python Version: 3.10
+Virtual Environment: Instructions for setting up a virtual environment and installing dependencies.
+Streamlit Application Deployment on AWS EC2
+Launching EC2 Instance:
+
+Use Ubuntu 22.04 LTS and instance type t2.medium.
+Open port 8501 for Streamlit access.
+Download and secure a PEM key for SSH access.
+Accessing EC2 Instance:
+
+SSH into the instance and gain superuser access.
+Update packages and verify Python installation.
+Install Python packages using apt.
+Transferring Files to EC2:
+
+Use SCP to transfer application code to the instance.
+Setting Up and Running Streamlit:
+
+Install dependencies from requirements.txt.
+Run the Streamlit application using streamlit run app.py.
+Use nohup for permanent running of the application.
+Next Steps
+Share CSV Files:
+
+Share the CSV files you have, and we can start with the data retrieval and preprocessing steps.
+Initial Data Analysis:
+
+Perform exploratory data analysis (EDA) to understand the dataset, identify missing values, and determine feature importance.
+Feature Engineering:
+
+Create feature groups with Hopsworks and process features for model building.
+Model Development:
+
+Build and evaluate models with different algorithms, tune hyperparameters, and select the best-performing model.
+Streamlit Application:
+
+Develop the application to interact with the model and visualize predictions.

@@ -1,0 +1,61 @@
+
+All the 30 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+6 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\model_selection\_validation.py", line 888, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\base.py", line 1473, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\linear_model\_logistic.py", line 1223, in fit
+    X, y = self._validate_data(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\base.py", line 650, in _validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1301, in check_X_y
+    X = check_array(
+        ^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1012, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\utils\_array_api.py", line 745, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\pandas\core\generic.py", line 2153, in __array__
+    arr = np.asarray(values, dtype=dtype)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '2019-01-26 22:15:00'
+
+--------------------------------------------------------------------------------
+24 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\model_selection\_validation.py", line 888, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\base.py", line 1473, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\linear_model\_logistic.py", line 1223, in fit
+    X, y = self._validate_data(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\base.py", line 650, in _validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1301, in check_X_y
+    X = check_array(
+        ^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\utils\validation.py", line 1012, in check_array
+    array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\sklearn\utils\_array_api.py", line 745, in _asarray_with_order
+    array = numpy.asarray(array, order=order, dtype=dtype)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\anucv\OneDrive\Desktop\AI and ML training\Machine_Learning\TRUCK_DELAY_CLASSIFICATION_PROJECT\.venv\Lib\site-packages\pandas\core\generic.py", line 2153, in __array__
+    arr = np.asarray(values, dtype=dtype)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '2019-01-25 19:37:12'

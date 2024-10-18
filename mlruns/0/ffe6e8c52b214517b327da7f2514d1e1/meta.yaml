@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/ffe6e8c52b214517b327da7f2514d1e1/artifacts
+end_time: 1729276007355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffe6e8c52b214517b327da7f2514d1e1
+run_name: awesome-mare-723
+run_uuid: ffe6e8c52b214517b327da7f2514d1e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729276004307
+status: 3
+tags: []
+user_id: anucv

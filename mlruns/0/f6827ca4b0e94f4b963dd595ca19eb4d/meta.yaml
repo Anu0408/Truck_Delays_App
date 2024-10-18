@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/f6827ca4b0e94f4b963dd595ca19eb4d/artifacts
+end_time: 1729235965750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6827ca4b0e94f4b963dd595ca19eb4d
+run_name: bemused-slug-210
+run_uuid: f6827ca4b0e94f4b963dd595ca19eb4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729235957546
+status: 3
+tags: []
+user_id: anucv

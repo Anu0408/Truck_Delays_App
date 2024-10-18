@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/25f0d4ee2eb1494cbfa49d9f6b402c6b/artifacts
+end_time: 1729273392790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25f0d4ee2eb1494cbfa49d9f6b402c6b
+run_name: invincible-robin-922
+run_uuid: 25f0d4ee2eb1494cbfa49d9f6b402c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729273389745
+status: 4
+tags: []
+user_id: anucv

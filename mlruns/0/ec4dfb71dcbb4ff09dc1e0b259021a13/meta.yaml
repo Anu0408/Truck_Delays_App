@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/ec4dfb71dcbb4ff09dc1e0b259021a13/artifacts
+end_time: 1729272714076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec4dfb71dcbb4ff09dc1e0b259021a13
+run_name: unique-snail-603
+run_uuid: ec4dfb71dcbb4ff09dc1e0b259021a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729272684881
+status: 3
+tags: []
+user_id: anucv

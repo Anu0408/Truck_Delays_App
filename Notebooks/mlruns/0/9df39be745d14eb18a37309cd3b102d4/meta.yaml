@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/Notebooks/mlruns/0/9df39be745d14eb18a37309cd3b102d4/artifacts
+end_time: 1729182921825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9df39be745d14eb18a37309cd3b102d4
+run_name: traveling-calf-604
+run_uuid: 9df39be745d14eb18a37309cd3b102d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729182918854
+status: 3
+tags: []
+user_id: anucv

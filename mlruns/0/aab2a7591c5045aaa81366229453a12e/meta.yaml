@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/aab2a7591c5045aaa81366229453a12e/artifacts
+end_time: 1729274853646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aab2a7591c5045aaa81366229453a12e
+run_name: bustling-ant-652
+run_uuid: aab2a7591c5045aaa81366229453a12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729274850836
+status: 3
+tags: []
+user_id: anucv

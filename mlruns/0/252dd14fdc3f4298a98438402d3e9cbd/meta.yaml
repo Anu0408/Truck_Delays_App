@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/252dd14fdc3f4298a98438402d3e9cbd/artifacts
+end_time: 1729274531542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 252dd14fdc3f4298a98438402d3e9cbd
+run_name: traveling-fawn-694
+run_uuid: 252dd14fdc3f4298a98438402d3e9cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729274528575
+status: 3
+tags: []
+user_id: anucv

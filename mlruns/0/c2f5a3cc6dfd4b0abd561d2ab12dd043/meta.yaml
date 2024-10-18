@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/c2f5a3cc6dfd4b0abd561d2ab12dd043/artifacts
+end_time: 1729235768909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2f5a3cc6dfd4b0abd561d2ab12dd043
+run_name: upbeat-skink-795
+run_uuid: c2f5a3cc6dfd4b0abd561d2ab12dd043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729235761278
+status: 3
+tags: []
+user_id: anucv

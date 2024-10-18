@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/Notebooks/mlruns/0/59627c5f74e647afa026cca7d7fb147e/artifacts
+end_time: 1729152416873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59627c5f74e647afa026cca7d7fb147e
+run_name: intelligent-eel-228
+run_uuid: 59627c5f74e647afa026cca7d7fb147e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729152411110
+status: 3
+tags: []
+user_id: anucv

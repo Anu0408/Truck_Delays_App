@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/6ad2ae2d83114398894d3780d323b1df/artifacts
+end_time: 1729274074001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ad2ae2d83114398894d3780d323b1df
+run_name: powerful-ram-198
+run_uuid: 6ad2ae2d83114398894d3780d323b1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729274042638
+status: 3
+tags: []
+user_id: anucv

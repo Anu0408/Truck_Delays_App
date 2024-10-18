@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/6daa5c0e572b4119abbac5499e982a95/artifacts
+end_time: 1729274891952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6daa5c0e572b4119abbac5499e982a95
+run_name: agreeable-dog-733
+run_uuid: 6daa5c0e572b4119abbac5499e982a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729274889118
+status: 3
+tags: []
+user_id: anucv
