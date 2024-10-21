@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/b0cf5f4ad7304119919f4c5c5ee316bd/artifacts
+end_time: 1729535674019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0cf5f4ad7304119919f4c5c5ee316bd
+run_name: amazing-ox-230
+run_uuid: b0cf5f4ad7304119919f4c5c5ee316bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729535590579
+status: 3
+tags: []
+user_id: anucv
