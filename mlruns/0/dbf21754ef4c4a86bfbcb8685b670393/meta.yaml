@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/dbf21754ef4c4a86bfbcb8685b670393/artifacts
+end_time: 1729540015959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbf21754ef4c4a86bfbcb8685b670393
+run_name: enthused-grouse-657
+run_uuid: dbf21754ef4c4a86bfbcb8685b670393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729540006319
+status: 4
+tags: []
+user_id: anucv

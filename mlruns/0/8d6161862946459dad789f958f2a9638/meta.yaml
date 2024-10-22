@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/8d6161862946459dad789f958f2a9638/artifacts
+end_time: 1729540556953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d6161862946459dad789f958f2a9638
+run_name: beautiful-roo-45
+run_uuid: 8d6161862946459dad789f958f2a9638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729540510385
+status: 3
+tags: []
+user_id: anucv

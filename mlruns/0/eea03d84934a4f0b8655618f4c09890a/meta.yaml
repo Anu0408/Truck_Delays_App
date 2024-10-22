@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/Machine_Learning/TRUCK_DELAY_CLASSIFICATION_PROJECT/mlruns/0/eea03d84934a4f0b8655618f4c09890a/artifacts
+end_time: 1729540230262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eea03d84934a4f0b8655618f4c09890a
+run_name: stylish-dog-53
+run_uuid: eea03d84934a4f0b8655618f4c09890a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729540207183
+status: 3
+tags: []
+user_id: anucv
