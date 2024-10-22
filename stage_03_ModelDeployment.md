@@ -1,4 +1,4 @@
-3. Model Deployment and Inference
+# Model Deployment and Inference
 Truck delay application
 
 2F3A302A-20F6-4947-8750-2137ECF30359
