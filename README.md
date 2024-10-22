@@ -28,4 +28,4 @@ This Project develement has been devided into 3 different phases
 
 1. Data Ingestion and Preparation
 2. Machine Learning Model building & hyper perameter tunning 
-3. Model Deploymnet and Inference
+3. Model Deployment and Inference
