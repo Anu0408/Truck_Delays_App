@@ -1,1 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+Data/Cleaned_data/cleaned_traffic.csv filter=lfs diff=lfs merge=lfs -text
+Data/Output/transformed_data/train_data.csv filter=lfs diff=lfs merge=lfs -text
+Data/clean_pipeline_data/cleaned_traffic.csv filter=lfs diff=lfs merge=lfs -text
+Data/Output/TRAIN_DATA_PATH/train_data.csv filter=lfs diff=lfs merge=lfs -text
