@@ -1,7 +1,6 @@
 # Model Deployment and Inference
 Truck delay application
 
-2F3A302A-20F6-4947-8750-2137ECF30359
 
 Step 1: Develop Streamlit applicaton (app.py) to create Truckdelay predictions as shown in above picture
 
