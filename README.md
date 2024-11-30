@@ -55,7 +55,7 @@ Clone this repository to your local machine or server: `git clone https://github
   - Create an account on Hopsworks.
   - Set up a new project in Hopsworks.
 - Upload the final merged truck delay dataset to the Feature Store in your Hopsworks project.
-- Update the Feature Store Code: In app.py, modify the following code snippet to connect to your Hopsworks project: python
+- Update the Feature Store Code: connect to your Hopsworks project.
   
 # Connect to Hopsworks
 
