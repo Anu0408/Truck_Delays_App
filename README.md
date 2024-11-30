@@ -95,7 +95,7 @@ To connect to the **Hopsworks Feature Store** and retrieve the final merged data
 - launch the Streamlit application to predict truck delays.
 
 ### **5. Running the Application**
-- To start the Streamlit app, run the following command in your terminal: `streamlit run app.py`
+- To start the Streamlit app, run the following command in the terminal: `streamlit run app.py`
 - The application will launch on your default web browser `(usually at http://localhost:8501)`.
 
 ## **Filtering Options**
