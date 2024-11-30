@@ -56,7 +56,25 @@ Clone this repository to your local machine or server: `git clone https://github
 
 # Connect to Hopsworks
 --bash
-`import hopsworks`
+
+# Connect to Hopsworks
+
+To connect to the **Hopsworks Feature Store** and retrieve the final merged dataset for predictions, use the following Python code:
+
+```python
+import hopsworks
+
+# Login to Hopsworks
+project = hopsworks.login()
+
+# Access the feature store
+feature_store = project.get_feature_store()
+
+# Retrieve the dataset
+final_merge = feature_store.get_dataframe("truck_delay_features")
+
+
+`import hopsworks
 project = hopsworks.login()
 feature_store = project.get_feature_store()
 final_merge = feature_store.get_dataframe("truck_delay_features") `
