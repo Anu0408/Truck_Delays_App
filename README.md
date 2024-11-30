@@ -61,7 +61,7 @@ Clone this repository to your local machine or server: `git clone https://github
 
 To connect to the **Hopsworks Feature Store** and retrieve the final merged dataset for predictions, use the following Python code:
 
-    ```python
+   
     import hopsworks
     
     # Login to Hopsworks
