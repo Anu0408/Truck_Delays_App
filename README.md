@@ -55,7 +55,8 @@ Clone this repository to your local machine or server: `git clone https://github
 
 
 # Connect to Hopsworks
-`import hopsworks
+--bash
+`import hopsworks`
 project = hopsworks.login()
 feature_store = project.get_feature_store()
 final_merge = feature_store.get_dataframe("truck_delay_features") `
