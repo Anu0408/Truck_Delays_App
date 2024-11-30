@@ -52,46 +52,35 @@ Clone this repository to your local machine or server: `git clone https://github
   - Set up a new project in Hopsworks.
 - Upload the final merged truck delay dataset to the Feature Store in your Hopsworks project.
 - Update the Feature Store Code: In app.py, modify the following code snippet to connect to your Hopsworks project: python
-Copy code
-import hopsworks
+
+
 # Connect to Hopsworks
+`import hopsworks
 project = hopsworks.login()
 feature_store = project.get_feature_store()
-final_merge = feature_store.get_dataframe("truck_delay_features")  # Ensure this matches your dataset
-3. MLflow Setup
-Ensure that MLflow is configured properly for model tracking:
+final_merge = feature_store.get_dataframe("truck_delay_features") `
 
-Install and configure MLflow.
-Train your model using your preferred algorithm (e.g., XGBoost, Random Forest, etc.).
-Save the model and register it to MLflow’s Model Registry.
-You should save your model and preprocessing artifacts (encoder and scaler) in the MLflow registry. For example, after training the model, you can log the model like this:
+### **3. MLflow Setup**
+- Install and configure MLflow.
+- Train the model using XGBoost, Random Forest algorithms
+- Save the model and register it to MLflow’s Model Registry.
+- Save the model and preprocessing artifacts (encoder and scaler) in the MLflow registry. 
 
-python
-Copy code
-import mlflow
+`import mlflow
 import mlflow.sklearn
-
-# Train your model here
 model = train_model()
-
 # Log the model in MLflow
-mlflow.sklearn.log_model(model, "truck-delay-classification-model")
-Update the app.py to point to the correct model in the MLflow Model Registry:
+mlflow.sklearn.log_model(model, "truck-delay-classification-model")`
+- Update the app.py to point to the correct model in the MLflow Model Registry:
 
-python
-Copy code
-model_uri = "models:/truck-delay-classification-model/1"
-model = mlflow.sklearn.load_model(model_uri)
-4. Streamlit Application
-Once everything is set up, you can launch the Streamlit application to predict truck delays.
+`model_uri = "models:/truck-delay-classification-model/1"
+model = mlflow.sklearn.load_model(model_uri)`
+### **4. Streamlit Application**
+- launch the Streamlit application to predict truck delays.
 
-5. Running the Application
-To start the Streamlit app, run the following command in your terminal:
-
-bash
-Copy code
-streamlit run app.py
-The application will launch on your default web browser (usually at http://localhost:8501).
+### **5. Running the Application**
+- To start the Streamlit app, run the following command in your terminal: `streamlit run app.py`
+- The application will launch on your default web browser `(usually at http://localhost:8501)`.
 
 Filtering Options
 The user can filter the data based on:
